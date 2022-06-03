@@ -15,5 +15,5 @@ Hint: Which data collection can hold all the listed ingredients in order?
 const menu = {
     name: 'Salted Caramel Ice Cream',
     price: 2.95,
-    ingredients: 'butter, ice cream, salt, sugar'
+    ingredients: ['butter', 'ice cream', 'salt', 'sugar']
 }
